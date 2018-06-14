@@ -2,8 +2,8 @@ package org.datastructures.array;
 
 import static org.junit.Assert.assertEquals;
 
-import org.datastructures.model.Array;
-import org.datastructures.model.impl.ArrayImpl;
+import org.ds.model.Array;
+import org.ds.model.impl.ArrayImpl;
 import org.junit.Before;
 import org.junit.Test;
 

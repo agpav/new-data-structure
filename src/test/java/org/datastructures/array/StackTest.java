@@ -2,10 +2,10 @@ package org.datastructures.array;
 
 import static org.junit.Assert.assertEquals;
 
-import org.datastructures.ADTException;
-import org.datastructures.ADTFactory;
-import org.datastructures.model.Array;
-import org.datastructures.type.stack.Stack;
+import org.ds.ADTException;
+import org.ds.ADTFactory;
+import org.ds.model.Array;
+import org.ds.type.stack.Stack;
 import org.junit.Before;
 import org.junit.Test;
 
